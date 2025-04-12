@@ -87,7 +87,7 @@ The Q-function outputs the expected value given a state and an action — effect
 
 ## 2. Reward System Development
 
-<p align="center"><img src="https://github.com/user-attachments/assets/5f06e44d-fa34-4bdd-bd5a-93e416292922" width="70%" height="70%"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/10f6416c-3d0e-4711-9acb-7ba8491780b9" width="70%" height="70%"></p>
 
 The initial reward system had simple values: movement (+0.1), obstacle interaction (+0.1), and goal achievement (+10).  
 This led to the agent wandering without pursuing items.
