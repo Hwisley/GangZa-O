@@ -61,7 +61,7 @@ Advanced GangZa showcasing optimal item collection behavior after successful tra
 
 ## Project Overview
 
-<p align="center"><img src="https://github.com/user-attachments/assets/a64331f8-4d8a-4b7a-a09d-72a46d342956" width="70%" height="70%"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/2c673807-6d79-46e5-9b6b-5c09117d8254" width="70%" height="70%"></p>
 
 The project addressed a corporate challenge:  
 Develop an autonomous agent (O, 1-month-old) utilizing reinforcement learning to efficiently collect designated items and return to the starting point while navigating around obstacles.
@@ -87,7 +87,7 @@ The Q-function outputs the expected value given a state and an action — effect
 
 ## 2. Reward System Development
 
-<p align="center"><img src="https://github.com/user-attachments/assets/07c68864-6340-4639-8cbd-6b716736a7fe" width="70%" height="70%"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/5f06e44d-fa34-4bdd-bd5a-93e416292922" width="70%" height="70%"></p>
 
 The initial reward system had simple values: movement (+0.1), obstacle interaction (+0.1), and goal achievement (+10).  
 This led to the agent wandering without pursuing items.
@@ -98,13 +98,13 @@ This observation led me to design a new reward system based on the agent's dista
 <tr>
 <td>
 <div>
-<img src="https://github.com/user-attachments/assets/9365e416-f280-4c7d-a45c-73b9970b3518" />
+<img src="https://github.com/user-attachments/assets/f4e2bdce-881d-45fd-8e27-144e49e14007" />
 
 </div>
 </td>
 <td>
 <div>
-<img src="https://github.com/user-attachments/assets/831bca57-ab7d-446a-ad6d-c8e1600d30a3" />
+<img src="https://github.com/user-attachments/assets/d112dd25-550f-4f44-aaac-339af61c628d" />
 </div>
 </td>
 </tr>
